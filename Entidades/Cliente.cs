@@ -15,7 +15,6 @@ namespace Entidades
         public string DNI { get; set; }
         public string EMail { get; set; }
         public int IdTipoCliente { get; set; }
-
     }
 
 }
